@@ -1,4 +1,4 @@
-class WordsController < Application::Base
+class WordsController < ApplicationController
 
   def index
 
