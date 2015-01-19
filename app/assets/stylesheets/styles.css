@@ -1,18 +1,9 @@
 body {
-	background-image: url('/assets/2-chainz.jpg');
+	background-image: url('/assets/noface.jpg');
 	background-color: #000;
-	background-size: 75%;
+	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-attachment: fixed;
 	color: #fff;
-}
-
-.align {
-	text-align: center;
-}
-
-.game-img {
-
-
 }

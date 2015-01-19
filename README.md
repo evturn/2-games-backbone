@@ -1,4 +1,4 @@
-# 2 Gamez
-## by 2 Chainz
+# Hangman
 
-![Alt text](https://raw.githubusercontent.com/evturn/two-gamez-backbone-rails/master/app/assets/images/2-chainz.jpg)
+## Rails
+## Backbone.js
