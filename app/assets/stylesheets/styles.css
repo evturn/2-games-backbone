@@ -8,14 +8,11 @@ body {
 	color: #fff;
 }
 
-#games {
-	margin-top: 75px;
+.align {
+	text-align: center;
 }
 
 .game-img {
-	max-width: 65%;
-	min-width: 100px;
-	height: auto;
-	border-bottom: 1px solid grey;
-	border-radius: 8%
+
+
 }
