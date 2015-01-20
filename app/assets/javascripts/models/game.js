@@ -1,5 +1,4 @@
 var Game = Backbone.Model.extend({
-	urlRoot: '/words,
 	defaults: {
 		word: "",
 		state: "",
