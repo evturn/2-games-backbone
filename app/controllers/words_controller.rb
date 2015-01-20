@@ -8,8 +8,9 @@ class WordsController < ApplicationController
     words = [
       "dog", "cat", "dude", "building"
     ]
+    word = words.sample
     respond_to do |f|
-      f.json { render json: words }
+      f.json { render json: word }
     end
   end
 

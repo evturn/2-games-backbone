@@ -1,5 +1,3 @@
-var Word = Backbone.Model.extend({
-	default: {
-		word: ""
-	}
-});
+var Word = Backbone.Model.extend({});
+
+console.log('Word');
